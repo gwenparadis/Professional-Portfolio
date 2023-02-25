@@ -5,7 +5,7 @@ export default function Blog() {
     <div>
       <h1>Projects</h1>
       <div>
-        <h2>Town Hall</h2>
+        <h2>Town Hall Group Project</h2>
         <h3>Description</h3>
         <p>
           We used Node.js and Express.js to create a RESTSful API. We used
@@ -18,9 +18,10 @@ export default function Blog() {
         </p>
         <h3>My Contribution</h3>
         <p>
-          Front End Functionality, Sign Up and Login Forms, Styling with
-          Tailwind CSS Framework, confirming functionality of Routes, Final
-          Clean Up of Unecessary components from Source Code
+          Commitment to Agile Methodologies, Front End Functionality, Sign Up
+          and Login Forms, Styling with Tailwind CSS Framework, confirming
+          functionality of Routes, Final Clean Up of Unecessary components from
+          Source Code
         </p>
       </div>
 
@@ -46,11 +47,12 @@ export default function Blog() {
         </p>
         <h3>My Contribution</h3>
         <p>
-          Creating the HTML to ensure Front End presentation and functionality,
-          Mastering the OpenWeather API, Mastering the GeoLocation API, creating
-          the Fetch requests and integrating this data into the Events API
-          (mastered by another teammate), Dynamically rendering the fetched data
-          into the HTML for user viewing.
+          Commitment to Agile Methodologies, Creating the HTML to ensure Front
+          End presentation and functionality, Mastering the OpenWeather API,
+          Mastering the GeoLocation API, creating the Fetch requests and
+          integrating this data into the Events API (mastered by another
+          teammate), Dynamically rendering the fetched data into the HTML for
+          user viewing.
         </p>
       </div>
 
@@ -87,7 +89,6 @@ export default function Blog() {
           my knowledge of Express.js routes, and conducted testing of routes and
           database capabilities with Insomnia.
         </p>
-        <p>my contribution</p>
       </div>
 
       <div>
@@ -95,7 +96,6 @@ export default function Blog() {
         <p>
           https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989
         </p>
-        <p>my contribution</p>
       </div>
     </div>
   );
