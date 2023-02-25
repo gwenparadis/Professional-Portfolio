@@ -6,6 +6,7 @@ export default function Blog() {
       <h1>Projects</h1>
       <div>
         <h2>Town Hall Group Project</h2>
+        <img></img>
         <h3>Description</h3>
         <p>
           We used Node.js and Express.js to create a RESTSful API. We used
@@ -27,6 +28,7 @@ export default function Blog() {
 
       <div>
         <h2>Event Weather Planner</h2>
+        <img></img>
         <h3>Description</h3>
         <p>
           The motivation to create this application came from the group’s
@@ -58,6 +60,7 @@ export default function Blog() {
 
       <div>
         <h2>JavaScript Quiz</h2>
+        <img></img>
         <p>
           I have attempted to create an interactive JavaScript quiz utilizing
           original HTML, CSS, and JavaScript elements. This project intends to
@@ -76,6 +79,7 @@ export default function Blog() {
 
       <div>
         <h2>E-Commerce Back End</h2>
+        <img></img>
         <p>
           I created this E-Commerce Backend in order to create an interactive
           database to store my store's inventory data. I am able to view product
@@ -93,6 +97,7 @@ export default function Blog() {
 
       <div>
         <h2>Regex Tutorial</h2>
+        <img></img>
         <p>
           https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989
         </p>
