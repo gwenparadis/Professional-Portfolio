@@ -9,12 +9,14 @@ export default function Contact() {
         connnecting to discuss job opportunities, project collaboration ideas,
         or simply connecting on LinkedIn.
       </p>
-      <p>Let's Connect</p>
-      <img></img>
-      <p>Let's Chat</p>
-      <img></img>
-      <p>Find me on Github</p>
-      <img></img>
+      <div class="container">
+        <p>Let's Connect</p>
+        <img></img>
+        <p>Let's Chat</p>
+        <img></img>
+        <p>Find me on Github</p>
+        <img></img>
+      </div>
     </div>
   );
 }

@@ -3,8 +3,8 @@ import React from "react";
 export default function About() {
   return (
     <div>
-      <div>
-        <h1>About Me</h1>
+      <h1>About Me</h1>
+      <div class="container">
         <h3>Overview</h3>
         <p>
           I am a Full Stack JavaScript Engineer interested in Full Stack job
@@ -27,7 +27,7 @@ export default function About() {
         </p>
       </div>
 
-      <div>
+      <div class="container">
         <h3>General Strengths</h3>
         <ul>
           <li>
@@ -43,7 +43,7 @@ export default function About() {
         </ul>
       </div>
 
-      <div>
+      <div class="container">
         <h3>Languages</h3>
         <ul>
           <li>Git</li>
@@ -72,7 +72,7 @@ export default function About() {
         </ul>
       </div>
 
-      <div>
+      <div class="container">
         <h3>Education</h3>
         <h5>Certificate, Full Stack Javascript Developer</h5>
         <p>Completion Date: March 21, 2023</p>

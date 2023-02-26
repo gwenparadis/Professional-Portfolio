@@ -4,10 +4,13 @@ export default function Blog() {
   return (
     <div>
       <h1>Projects</h1>
-      <div>
-        <h2>Town Hall Group Project</h2>
+
+      <div class="container">
+        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          Town Hall Group Project
+        </h2>
         <img></img>
-        <h3>Description</h3>
+        <h5 class="text-center">Description</h5>
         <p>
           We used Node.js and Express.js to create a RESTSful API. We used
           Handlebars.js as the templating engine, and we used MySQL and the
@@ -17,7 +20,7 @@ export default function Blog() {
           models, relationships, and queries. We used Github to host our
           repository and Heroku to deploy our solution.
         </p>
-        <h3>My Contribution</h3>
+        <h5 class="text-center">My Contribution</h5>
         <p>
           Commitment to Agile Methodologies, Front End Functionality, Sign Up
           and Login Forms, Styling with Tailwind CSS Framework, confirming
@@ -26,10 +29,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div>
-        <h2>Event Weather Planner</h2>
+      <div class="container">
+        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          Event Weather Planner
+        </h2>
         <img></img>
-        <h3>Description</h3>
+        <h5 class="text-center">Description</h5>
         <p>
           The motivation to create this application came from the group’s
           interest in outdoor activities and events, with the real world problem
@@ -47,7 +52,7 @@ export default function Blog() {
           requests, and then approve and merge those requests into our main
           branch.
         </p>
-        <h3>My Contribution</h3>
+        <h5 class="text-center">My Contribution</h5>
         <p>
           Commitment to Agile Methodologies, Creating the HTML to ensure Front
           End presentation and functionality, Mastering the OpenWeather API,
@@ -58,9 +63,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div>
-        <h2>JavaScript Quiz</h2>
+      <div class="container">
+        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          JavaScript Quiz
+        </h2>
         <img></img>
+        <h5 class="text-center">Description</h5>
         <p>
           I have attempted to create an interactive JavaScript quiz utilizing
           original HTML, CSS, and JavaScript elements. This project intends to
@@ -77,9 +85,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div>
-        <h2>E-Commerce Back End</h2>
+      <div class="container">
+        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          E-Commerce Back End
+        </h2>
         <img></img>
+        <h5 class="text-center">Description</h5>
         <p>
           I created this E-Commerce Backend in order to create an interactive
           database to store my store's inventory data. I am able to view product
@@ -95,9 +106,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div>
-        <h2>Regex Tutorial</h2>
+      <div class="container">
+        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          Regex Tutorial
+        </h2>
         <img></img>
+        <h5 class="text-center">Description</h5>
         <p>
           https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989
         </p>
