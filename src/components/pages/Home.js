@@ -1,17 +1,19 @@
 import React from "react";
 
-export default function Home() {
+export default function Home({ currentPage, handlePageChange }) {
   return (
-    <div>
-      <h1>Gwen Paradis</h1>
-      <h3>Portfolio</h3>
-      <p>
-        Welcome! You have reached the Portfolio of Full Stack Web Developer Gwen
-        Paradis. Please utilize the Navigation Bar at the top of the screen to
-        learn more about myself, my career, projects I have completed, and how
-        to contact me for more information. Please do not hesitate to reach out
-        or connect with me on Linked in.
-      </p>
+    <div class="p-5 text-center bg-light">
+      <h1 class="mb-3">Gwendelyn Paradis</h1>
+      <h4 class="mb-3">Portfolio</h4>
+      <button>
+        <a
+          href="#about"
+          onClick={() => handlePageChange("About")}
+          className={currentPage === "About" ? "nav-link active" : "nav-link"}
+        >
+          Get Started
+        </a>
+      </button>
     </div>
   );
 }

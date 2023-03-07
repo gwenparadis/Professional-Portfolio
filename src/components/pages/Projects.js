@@ -3,13 +3,20 @@ import React from "react";
 export default function Blog() {
   return (
     <div>
-      <h1>Projects</h1>
+      <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
+        Projects
+      </h1>
 
       <div class="container">
         <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           Town Hall Group Project
         </h2>
-        <img></img>
+        <img
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/townhallscreenshot.png")}
+        ></img>
         <h5 class="text-center">Description</h5>
         <p>
           We used Node.js and Express.js to create a RESTSful API. We used
@@ -33,7 +40,12 @@ export default function Blog() {
         <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           Event Weather Planner
         </h2>
-        <img></img>
+        <img
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/eventsforecastplanner.png")}
+        ></img>{" "}
         <h5 class="text-center">Description</h5>
         <p>
           The motivation to create this application came from the group’s
@@ -67,7 +79,12 @@ export default function Blog() {
         <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           JavaScript Quiz
         </h2>
-        <img></img>
+        <img
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/profile-pic.jpg")}
+        ></img>{" "}
         <h5 class="text-center">Description</h5>
         <p>
           I have attempted to create an interactive JavaScript quiz utilizing
@@ -89,7 +106,12 @@ export default function Blog() {
         <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           E-Commerce Back End
         </h2>
-        <img></img>
+        <img
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/profile-pic.jpg")}
+        ></img>{" "}
         <h5 class="text-center">Description</h5>
         <p>
           I created this E-Commerce Backend in order to create an interactive
@@ -110,7 +132,12 @@ export default function Blog() {
         <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           Regex Tutorial
         </h2>
-        <img></img>
+        <img
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/profile-pic.jpg")}
+        ></img>{" "}
         <h5 class="text-center">Description</h5>
         <p>
           https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989

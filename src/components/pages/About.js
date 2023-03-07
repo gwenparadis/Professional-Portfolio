@@ -3,9 +3,20 @@ import React from "react";
 export default function About() {
   return (
     <div>
-      <h1>About Me</h1>
+      <div class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
+        <h1>About Me</h1>
+        <img
+          style={{
+            width: 200,
+          }}
+          src={require("../../images/profile-pic.jpg")}
+        ></img>
+      </div>
+
       <div class="container">
-        <h3>Overview</h3>
+        <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          Overview
+        </h3>
         <p>
           I am a Full Stack JavaScript Engineer interested in Full Stack job
           opportunities to continue growth and learning in the field. I have
@@ -28,7 +39,9 @@ export default function About() {
       </div>
 
       <div class="container">
-        <h3>General Strengths</h3>
+        <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          General Strengths
+        </h3>
         <ul>
           <li>
             Incorporating Front-End HTML, CSS, and Javascript in React for a
@@ -44,7 +57,9 @@ export default function About() {
       </div>
 
       <div class="container">
-        <h3>Languages</h3>
+        <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          Languages
+        </h3>
         <ul>
           <li>Git</li>
           <li>HTML</li>
@@ -59,7 +74,9 @@ export default function About() {
           <li>React.js</li>
           <li>Handlebars.js</li>
         </ul>
-        <h3>Other Technologies</h3>
+        <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          Other Technologies
+        </h3>
         <ul>
           <li>Visual Studio Code</li>
           <li>Github</li>
@@ -73,10 +90,12 @@ export default function About() {
       </div>
 
       <div class="container">
-        <h3>Education</h3>
+        <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          Education
+        </h3>
         <h5>Certificate, Full Stack Javascript Developer</h5>
         <p>Completion Date: March 21, 2023</p>
-        <h5>Bachelors, Social Work</h5>
+        <h5>Bachelors, Social Work, m. Cell Biology</h5>
         <p>Completion Date: May 12, 2018</p>
       </div>
     </div>
