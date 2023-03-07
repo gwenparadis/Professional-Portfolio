@@ -6,19 +6,10 @@ export default function Blog() {
       <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
         Software Engineering Portfolio
       </h1>
-
-      <div class="container p-5">
+      <div class="container p-2">
         <h2 class="p-3 bg-warning bg-opacity-10 border border-warning border-start-0 rounded-end">
           Town Hall: Full Stack Group Project
         </h2>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/townhallscreenshot.png")}
-        ></img>
-        <h5 class="text-center">Description</h5>
         <p>
           We used Node.js and Express.js to create a RESTSful API. We used
           Handlebars.js as the templating engine, and we used MySQL and the
@@ -28,7 +19,14 @@ export default function Blog() {
           models, relationships, and queries. We used Github to host our
           repository and Heroku to deploy our solution.
         </p>
-        <h5 class="text-center">My Contribution</h5>
+        <img
+          class="p-3"
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/townhallscreenshot.png")}
+        ></img>
+        <h5>My Contribution</h5>
         <p>
           Commitment to Agile Methodologies, Front End Functionality, Sign Up
           and Login Forms, Styling with Tailwind CSS Framework, confirming
@@ -36,19 +34,10 @@ export default function Blog() {
           Source Code
         </p>
       </div>
-
-      <div class="container p-5">
+      <div class="container p-2">
         <h2 class="p-3 bg-danger bg-opacity-10 border border-danger border-start-0 rounded-end">
           Event Weather Planner: Front End Group Project
         </h2>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/eventsforecastplanner.png")}
-        ></img>{" "}
-        <h5 class="text-center">Description</h5>
         <p>
           The motivation to create this application came from the group’s
           interest in outdoor activities and events, with the real world problem
@@ -66,7 +55,14 @@ export default function Blog() {
           requests, and then approve and merge those requests into our main
           branch.
         </p>
-        <h5 class="text-center">My Contribution</h5>
+        <img
+          class="p-3"
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/eventsforecastplanner.png")}
+        ></img>
+        <h5>My Contribution</h5>
         <p>
           Commitment to Agile Methodologies, Creating the HTML to ensure Front
           End presentation and functionality, Mastering the OpenWeather API,
@@ -76,19 +72,10 @@ export default function Blog() {
           user viewing.
         </p>
       </div>
-
-      <div class="container p-5">
+      <div class="container p-2">
         <h2 class="p-3 bg-danger bg-opacity-10 border border-danger border-start-0 rounded-end">
           JavaScript Quiz: Front End Javascript
         </h2>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/profile-pic.jpg")}
-        ></img>{" "}
-        <h5 class="text-center">Description</h5>
         <p>
           I have attempted to create an interactive JavaScript quiz utilizing
           original HTML, CSS, and JavaScript elements. This project intends to
@@ -103,20 +90,18 @@ export default function Blog() {
           seen when you inspect the page. Throughout development, I learned the
           complexity of creating multiple interactive elements on one webpage.
         </p>
-      </div>
-
-      <div class="container p-5">
-        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          E-Commerce Back End: Back End MySQL with Sequelize
-        </h2>
         <img
           class="p-3"
           style={{
             height: 400,
           }}
-          src={require("../../images/profile-pic.jpg")}
-        ></img>{" "}
-        <h5 class="text-center">Description</h5>
+          src={require("../../images/jsquiz.png")}
+        ></img>
+      </div>
+      <div class="container p-2">
+        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          E-Commerce Back End: Back End MySQL with Sequelize
+        </h2>
         <p>
           I created this E-Commerce Backend in order to create an interactive
           database to store my store's inventory data. I am able to view product
@@ -130,23 +115,39 @@ export default function Blog() {
           my knowledge of Express.js routes, and conducted testing of routes and
           database capabilities with Insomnia.
         </p>
-      </div>
-
-      <div class="container p-5">
-        <h2 class="p-3 bg-light bg-opacity-10 border border-light border-start-0 rounded-end">
-          Matching Emails: Regex Tutorial
-        </h2>
+        <p class="text-info">
+          This project does not have a front end. The link will bring you to a
+          recording of the application's functionality.
+        </p>
+        <p>
+          https://drive.google.com/file/d/17MyLdJ6GeWjsGvi-UIof24Y7NaFncKqw/view
+        </p>
         <img
           class="p-3"
           style={{
             height: 400,
           }}
-          src={require("../../images/profile-pic.jpg")}
-        ></img>{" "}
-        <h5 class="text-center">Description</h5>
+          src={require("../../images/ecommerce.png")}
+        ></img>
+      </div>
+      <div class="container p-2">
+        <h2 class="p-3 bg-light bg-opacity-10 border border-light border-start-0 rounded-end">
+          Matching Emails: Regex Tutorial
+        </h2>
+        <p class="text-info">
+          Visit the gist to view the Tutorial I wrote on the Regular Expression
+          used for "Matching an Email".
+        </p>
         <p>
           https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989
         </p>
+        <img
+          class="p-3"
+          style={{
+            height: 400,
+          }}
+          src={require("../../images/regextutorial.png")}
+        ></img>
       </div>
     </div>
   );

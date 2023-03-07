@@ -12,12 +12,7 @@ export default function Contact() {
         or simply connecting on LinkedIn.
       </p>
       <div class="container">
-        <p>Let's Connect</p>
-        <img></img>
-        <p>Let's Chat</p>
-        <img></img>
-        <p>Find me on Github</p>
-        <img></img>
+        <p class="text-info">FORM REQUIRED</p>
       </div>
     </div>
   );

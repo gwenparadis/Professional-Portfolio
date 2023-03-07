@@ -6,6 +6,9 @@ export default function Blog() {
       <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
         Professional Resume
       </h1>
+      <p class="text-info text-center">
+        Click HERE for a downloadable version of this Resume
+      </p>
 
       <div class="container p-2">
         <div class="p-2 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
