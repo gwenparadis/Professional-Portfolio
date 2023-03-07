@@ -4,7 +4,7 @@ export default function Blog() {
   return (
     <div class="bg-dark text-white">
       <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
-        Portfolio
+        Software Engineering Portfolio
       </h1>
 
       <div class="container p-5">

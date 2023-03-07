@@ -88,16 +88,6 @@ export default function About() {
           <li>Third Party API integration</li>
         </ul>
       </div>
-
-      <div class="container">
-        <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          Education
-        </h3>
-        <h5>Certificate, Full Stack Javascript Developer</h5>
-        <p>Completion Date: March 21, 2023</p>
-        <h5>Bachelors, Social Work, m. Cell Biology</h5>
-        <p>Completion Date: May 12, 2018</p>
-      </div>
     </div>
   );
 }
