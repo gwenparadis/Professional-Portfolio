@@ -24,17 +24,18 @@ export default function About() {
           learned the basics of Full Stack Web Development, gaining technical
           programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap,
           Node.js, MySQL, MongoDB, Express, Handelbars.js, and ReactJS. I
-          personally specialize in front-end Javascript, API integration, API
-          creation with SQL or MongoDB, and Express.js Controllers and Routes in
-          the backend. I have enjoyed utilizing my communication and
-          community-building skills gained in my career as a Social Worker to
-          collaborate with classmates using Agile Methodologies. I take pride in
-          my work, including producing user-friendly designs and effective
-          functioning, presenting projects and public speaking, and learning new
-          technologies along the way. I bring an easy-going personality combined
-          with a dedication to success to all team projects. I love to work hard
-          with a smile. In my spare time I compete in Powerlifting, value time
-          with my family, and am learning to speak fluent Spanish.
+          personally specialize in Model-View-Controller software design
+          utilizing MongoDB or SQL for API creation and implementation in the
+          backend, as well as functional front-end Javascript. I have enjoyed
+          utilizing my communication and community-building skills gained in my
+          career as a Social Worker to collaborate with classmates using Agile
+          Methodologies. I take pride in my work, including producing
+          user-friendly designs and effective functioning, presenting projects
+          and public speaking, and learning new technologies along the way. I
+          bring an easy-going personality combined with a dedication to success
+          to all team projects. I love to work hard with a smile. In my spare
+          time I compete in Powerlifting, value time with friends and family,
+          and love a good Netflix Reality TV Series.
         </p>
       </div>
 
