@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <div>
+    <div class="bg-dark text-white">
       <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
         Contact Me
       </h1>

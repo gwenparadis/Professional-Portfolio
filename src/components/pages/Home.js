@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home({ currentPage, handlePageChange }) {
   return (
-    <div class="p-5 text-center bg-light">
+    <div class="p-5 text-center bg-dark text-white">
       <h1 class="mb-3">Gwendelyn Paradis</h1>
       <h4 class="mb-3">Portfolio</h4>
       <button>

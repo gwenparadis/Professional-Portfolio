@@ -2,16 +2,17 @@ import React from "react";
 
 export default function Blog() {
   return (
-    <div>
+    <div class="bg-dark text-white">
       <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
-        Projects
+        Portfolio
       </h1>
 
-      <div class="container">
-        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          Town Hall Group Project
+      <div class="container p-5">
+        <h2 class="p-3 bg-warning bg-opacity-10 border border-warning border-start-0 rounded-end">
+          Town Hall: Full Stack Group Project
         </h2>
         <img
+          class="p-3"
           style={{
             height: 400,
           }}
@@ -36,11 +37,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div class="container">
-        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          Event Weather Planner
+      <div class="container p-5">
+        <h2 class="p-3 bg-danger bg-opacity-10 border border-danger border-start-0 rounded-end">
+          Event Weather Planner: Front End Group Project
         </h2>
         <img
+          class="p-3"
           style={{
             height: 400,
           }}
@@ -75,11 +77,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div class="container">
-        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          JavaScript Quiz
+      <div class="container p-5">
+        <h2 class="p-3 bg-danger bg-opacity-10 border border-danger border-start-0 rounded-end">
+          JavaScript Quiz: Front End Javascript
         </h2>
         <img
+          class="p-3"
           style={{
             height: 400,
           }}
@@ -102,11 +105,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div class="container">
+      <div class="container p-5">
         <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          E-Commerce Back End
+          E-Commerce Back End: Back End MySQL with Sequelize
         </h2>
         <img
+          class="p-3"
           style={{
             height: 400,
           }}
@@ -128,11 +132,12 @@ export default function Blog() {
         </p>
       </div>
 
-      <div class="container">
-        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          Regex Tutorial
+      <div class="container p-5">
+        <h2 class="p-3 bg-light bg-opacity-10 border border-light border-start-0 rounded-end">
+          Matching Emails: Regex Tutorial
         </h2>
         <img
+          class="p-3"
           style={{
             height: 400,
           }}
