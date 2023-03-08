@@ -16,9 +16,6 @@ export default function Contact() {
               class="form-control"
               placeholder="your email here"
             ></input>
-            <small class="form-text text-muted">
-              We'll never share your email with anyone else.
-            </small>
           </div>
           <div class="form-group">
             <label class="p-2">Message</label>
