@@ -2,7 +2,7 @@ import React from "react";
 
 export default function About() {
   return (
-    <div class="bg-dark text-white">
+    <div class="bg-dark text-white p-5">
       <div class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
         <h1 class="mb-3">Gwen Paradis</h1>
         <h4 class="mb-3">Full Stack JavaScript Software Engineer</h4>

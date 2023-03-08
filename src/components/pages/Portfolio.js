@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function Blog() {
+export default function Portfolio() {
   return (
-    <div class="bg-dark text-white">
+    <div class="bg-dark text-white p-5">
       <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
         Software Engineering Portfolio
       </h1>
