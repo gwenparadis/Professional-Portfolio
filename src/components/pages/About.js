@@ -4,7 +4,8 @@ export default function About() {
   return (
     <div class="bg-dark text-white">
       <div class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
-        <h1>About Me</h1>
+        <h1 class="mb-3">Gwen Paradis</h1>
+        <h4 class="mb-3">Full Stack JavaScript Software Engineer</h4>
         <img
           style={{
             width: 200,
