@@ -6,20 +6,11 @@ function NavTabs({ currentPage, handlePageChange }) {
       <ul className="nav nav-tabs sticky-top">
         <li className="nav-item">
           <a
-            href="#home"
-            onClick={() => handlePageChange("Home")}
-            className={currentPage === "Home" ? "nav-link active" : "nav-link"}
-          >
-            Gwen Paradis
-          </a>
-        </li>
-        <li className="nav-item">
-          <a
             href="#about"
             onClick={() => handlePageChange("About")}
             className={currentPage === "About" ? "nav-link active" : "nav-link"}
           >
-            About
+            Gwen Paradis
           </a>
         </li>
         <li className="nav-item">
