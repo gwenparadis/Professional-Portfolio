@@ -33,16 +33,16 @@ export default function About() {
           Node.js, MySQL, MongoDB, Express, Handelbars.js, and ReactJS. I
           personally specialize in Model-View-Controller software design
           utilizing MongoDB or SQL for API creation and implementation in the
-          backend, as well as functional front-end Javascript. I have enjoyed
-          utilizing my communication and community-building skills gained in my
-          career as a Social Worker to collaborate with classmates using Agile
-          Methodologies. I take pride in my work, including producing
-          user-friendly designs and effective functioning, presenting projects
-          and public speaking, and learning new technologies along the way. I
-          bring an easy-going personality combined with a dedication to success
-          to all team projects. I love to work hard with a smile. In my spare
-          time I compete in Powerlifting, value time with friends and family,
-          and love a good Netflix Reality TV Series.
+          backend, as well as functional front-end Javascript with React. I have
+          enjoyed utilizing my communication and community-building skills
+          gained in my career as a Social Worker to collaborate with classmates
+          using Agile Methodologies. I take pride in my work, including
+          producing user-friendly designs and effective functioning, presenting
+          projects and public speaking, and learning new technologies along the
+          way. I bring an easy-going personality combined with a dedication to
+          success to all team projects. I love to work hard with a smile. In my
+          spare time I compete in Powerlifting, value time with friends and
+          family, and love a good Netflix Reality TV Series.
         </p>
       </div>
 

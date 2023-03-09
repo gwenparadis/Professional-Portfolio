@@ -12,9 +12,9 @@ export default function Portfolio() {
         </a>
       </div>
 
-      <div class="container p-2 border border-warning border-start-0 rounded-end mb-3">
+      <div class="container p-2 border border-warning rounded mb-3">
         <h2 class="p-3 bg-warning bg-opacity-10 ">
-          Town Hall: Full Stack Group Project
+          Town Hall: Full Stack MySQL Group Project
         </h2>
         <p>
           We used Node.js and Express.js to create a RESTSful API. We used
@@ -43,9 +43,10 @@ export default function Portfolio() {
         </p>
       </div>
 
-      <div class="container p-2 border border-danger border-start-0 rounded-end mb-3">
+      <div class="container p-2 border border-danger rounded mb-3">
         <h2 class="p-3 bg-danger bg-opacity-10">
-          Event Weather Planner: Front End Group Project
+          Event Weather Planner: Third Party API Integration, Front End Group
+          Project
         </h2>
         <p>
           The motivation to create this application came from the group’s
@@ -84,7 +85,7 @@ export default function Portfolio() {
         </p>
       </div>
 
-      <div class="container p-2 border border-danger border-start-0 rounded-end mb-3">
+      <div class="container p-2 border border-danger rounded mb-3">
         <h2 class="p-3 bg-danger bg-opacity-10">
           JavaScript Quiz: Front End Javascript
         </h2>
@@ -113,7 +114,7 @@ export default function Portfolio() {
         </div>
       </div>
 
-      <div class="container p-2 border border-info border-start-0 rounded-end mb-3">
+      <div class="container p-2 border border-info rounded mb-3">
         <h2 class="p-3 bg-info bg-opacity-10">
           E-Commerce Back End: Back End MySQL with Sequelize
         </h2>
@@ -130,13 +131,13 @@ export default function Portfolio() {
           my knowledge of Express.js routes, and conducted testing of routes and
           database capabilities with Insomnia.
         </p>
-        <p class="text-info">
-          This project does not have a front end. The link will bring you to a
-          recording of the application's functionality.
-        </p>
-        <p>
-          https://drive.google.com/file/d/17MyLdJ6GeWjsGvi-UIof24Y7NaFncKqw/view
-        </p>
+        <a
+          class="text-info text-center"
+          href="https://drive.google.com/file/d/17MyLdJ6GeWjsGvi-UIof24Y7NaFncKqw/view"
+        >
+          This project does not have a front end. Click HERE to watch a
+          recording of application functionality.
+        </a>
         <div class="text-center">
           <img
             class="p-3"
@@ -148,9 +149,9 @@ export default function Portfolio() {
         </div>
       </div>
 
-      <div class="container p-2 border border-light border-start-0 rounded-end mb-3">
+      <div class="container p-2 border border-light rounded mb-3">
         <h2 class="p-3 bg-light bg-opacity-10">
-          Matching Emails: Regex Tutorial
+          Matching an Email: Regex Tutorial
         </h2>
         <p>
           I researched the fundamentals of Regular Expressions and how they are
@@ -174,13 +175,14 @@ export default function Portfolio() {
         </div>
       </div>
 
-      <div class="container p-2 border border-light border-start-0 rounded-end mb-3">
+      <div class="container p-2 border border-light rounded mb-3">
         <h2 class="p-3 bg-light bg-opacity-10">
-          #6 Placeholder for Project 3{" "}
+          #6 Placeholder: Full Stack React with MongoDB Group Project
         </h2>
         <p>
           This div will be completed and put at the top of the page to display
-          the "Project 3: Full Stack Group Project".
+          the "Project 3: Full Stack Group Project" when completed with the
+          proper description and deployment links.
         </p>
         <div class="text-center">
           <img
