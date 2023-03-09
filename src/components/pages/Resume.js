@@ -3,14 +3,19 @@ import React from "react";
 export default function Resume() {
   return (
     <div class="bg-dark text-white p-5">
-      <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
-        Professional Resume
-      </h1>
-      <p class="text-info text-center">
-        Click HERE for a downloadable version of this Resume
-      </p>
+      <div class="text-center border border-light rounded p-3">
+        <h1 class="cover-container d-flex h-100 mx-auto flex-column text-center p-3">
+          Professional Resume
+        </h1>
+        <a
+          class="text-info text-center"
+          href="https://docs.google.com/document/d/1C7j8YM7BZZEtY0aZuV_3ABIyZRhX29jU7O8TMa6RnRs/edit?usp=sharing"
+        >
+          Click HERE for a downloadable version of this Resume
+        </a>
+      </div>
 
-      <div class="container p-2">
+      <div class="container p-2 mt-2">
         <div class="p-2 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           <h2>Current Employment</h2>
         </div>
@@ -19,7 +24,7 @@ export default function Resume() {
       <div class="container p-2">
         <div class="p-2">
           <h2>Apprentice Software Engineer, JavaScript</h2>
-          <h6>
+          <h6 class="text-info">
             UNH Coding Bootcamp, Dover NH (Remote), September 2021 to present
           </h6>
           <h6>Field: Software Engineering</h6>
@@ -46,7 +51,9 @@ export default function Resume() {
       <div class="container p-2">
         <div class="p-2">
           <h2>Sr Family Intervention Specialist</h2>
-          <h6>Youth Villages, Boston MA (Hyrbid), September 2021 to present</h6>
+          <h6 class="text-info">
+            Youth Villages, Boston MA (Hyrbid), September 2021 to present
+          </h6>
           <h6>Field: Clinical Social Work </h6>
         </div>
 
@@ -81,7 +88,9 @@ export default function Resume() {
       <div class="container p-2">
         <div class="p-2">
           <h2>Director of Remote Learning and Youth Programs</h2>
-          <h6>Laura Marie Howell, Newton MA, September 2020 to June 2021</h6>
+          <h6 class="text-info">
+            Laura Marie Howell, Newton MA, September 2020 to June 2021
+          </h6>
           <h6>Field: Education, Youth Sports and Recreation</h6>
         </div>
 
@@ -98,7 +107,7 @@ export default function Resume() {
       <div class="container p-2">
         <div class="p-2">
           <h2>Associate Aquatics Director</h2>
-          <h6>
+          <h6 class="text-info">
             Y of Greater Boston, Menino Branch, Boston MA, October 2019 to
             September 2020
           </h6>
@@ -124,7 +133,7 @@ export default function Resume() {
       <div class="container p-2">
         <div class="p-2">
           <h2>Program Coordinator</h2>
-          <h6>
+          <h6 class="text-info">
             Boys & Girls Clubs of Southern Maine, South Portland ME, April 2018
             to August 2019
           </h6>
@@ -154,13 +163,15 @@ export default function Resume() {
       <div class="container p-2">
         <div class="p-2">
           <h2>Certificate of Full Stack Web Development, JavaScript</h2>
-          <h6>
+          <h6 class="text-info">
             University of New Hampshire, Dover NH (Remote), Completed March 2023
           </h6>
         </div>
         <div class="p-2">
           <h2>Bachelors of Social Work, m. Cell Biology</h2>
-          <h6>University of Southern Maine, Portland ME, Completed May 2018</h6>
+          <h6 class="text-info">
+            University of Southern Maine, Portland ME, Completed May 2018
+          </h6>
         </div>
       </div>
     </div>

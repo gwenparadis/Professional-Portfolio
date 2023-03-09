@@ -3,11 +3,17 @@ import React from "react";
 export default function Portfolio() {
   return (
     <div class="bg-dark text-white p-5">
-      <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
-        Software Engineering Portfolio
-      </h1>
-      <div class="container p-2">
-        <h2 class="p-3 bg-warning bg-opacity-10 border border-warning border-start-0 rounded-end">
+      <div class="text-center border border-light rounded p-3 mb-3">
+        <h1 class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
+          Software Engineering Portfolio
+        </h1>
+        <a class="text-info text-center" href="https://github.com/gwenparadis">
+          Click HERE to go straight to my Github
+        </a>
+      </div>
+
+      <div class="container p-2 border border-warning border-start-0 rounded-end mb-3">
+        <h2 class="p-3 bg-warning bg-opacity-10 ">
           Town Hall: Full Stack Group Project
         </h2>
         <p>
@@ -19,13 +25,15 @@ export default function Portfolio() {
           models, relationships, and queries. We used Github to host our
           repository and Heroku to deploy our solution.
         </p>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/townhallscreenshot.png")}
-        ></img>
+        <div class="text-center">
+          <img
+            class="p-3"
+            style={{
+              height: 400,
+            }}
+            src={require("../../images/townhallscreenshot.png")}
+          ></img>
+        </div>
         <h5>My Contribution</h5>
         <p>
           Commitment to Agile Methodologies, Front End Functionality, Sign Up
@@ -34,8 +42,9 @@ export default function Portfolio() {
           Source Code
         </p>
       </div>
-      <div class="container p-2">
-        <h2 class="p-3 bg-danger bg-opacity-10 border border-danger border-start-0 rounded-end">
+
+      <div class="container p-2 border border-danger border-start-0 rounded-end mb-3">
+        <h2 class="p-3 bg-danger bg-opacity-10">
           Event Weather Planner: Front End Group Project
         </h2>
         <p>
@@ -55,13 +64,15 @@ export default function Portfolio() {
           requests, and then approve and merge those requests into our main
           branch.
         </p>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/eventsforecastplanner.png")}
-        ></img>
+        <div class="text-center">
+          <img
+            class="p-3"
+            style={{
+              height: 400,
+            }}
+            src={require("../../images/eventsforecastplanner.png")}
+          ></img>
+        </div>
         <h5>My Contribution</h5>
         <p>
           Commitment to Agile Methodologies, Creating the HTML to ensure Front
@@ -72,8 +83,9 @@ export default function Portfolio() {
           user viewing.
         </p>
       </div>
-      <div class="container p-2">
-        <h2 class="p-3 bg-danger bg-opacity-10 border border-danger border-start-0 rounded-end">
+
+      <div class="container p-2 border border-danger border-start-0 rounded-end mb-3">
+        <h2 class="p-3 bg-danger bg-opacity-10">
           JavaScript Quiz: Front End Javascript
         </h2>
         <p>
@@ -90,16 +102,19 @@ export default function Portfolio() {
           seen when you inspect the page. Throughout development, I learned the
           complexity of creating multiple interactive elements on one webpage.
         </p>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/jsquiz.png")}
-        ></img>
+        <div class="text-center">
+          <img
+            class="p-3"
+            style={{
+              height: 400,
+            }}
+            src={require("../../images/jsquiz.png")}
+          ></img>
+        </div>
       </div>
-      <div class="container p-2">
-        <h2 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+
+      <div class="container p-2 border border-info border-start-0 rounded-end mb-3">
+        <h2 class="p-3 bg-info bg-opacity-10">
           E-Commerce Back End: Back End MySQL with Sequelize
         </h2>
         <p>
@@ -122,32 +137,60 @@ export default function Portfolio() {
         <p>
           https://drive.google.com/file/d/17MyLdJ6GeWjsGvi-UIof24Y7NaFncKqw/view
         </p>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/ecommerce.png")}
-        ></img>
+        <div class="text-center">
+          <img
+            class="p-3"
+            style={{
+              height: 400,
+            }}
+            src={require("../../images/ecommerce.png")}
+          ></img>
+        </div>
       </div>
-      <div class="container p-2">
-        <h2 class="p-3 bg-light bg-opacity-10 border border-light border-start-0 rounded-end">
+
+      <div class="container p-2 border border-light border-start-0 rounded-end mb-3">
+        <h2 class="p-3 bg-light bg-opacity-10">
           Matching Emails: Regex Tutorial
         </h2>
-        <p class="text-info">
-          Visit the gist to view the Tutorial I wrote on the Regular Expression
-          used for "Matching an Email".
-        </p>
         <p>
-          https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989
+          I researched the fundamentals of Regular Expressions and how they are
+          used to match user input, and wrote a tutorial for the "Matching an
+          Email" expression, that is currently live at the Github Link below.
         </p>
-        <img
-          class="p-3"
-          style={{
-            height: 400,
-          }}
-          src={require("../../images/regextutorial.png")}
-        ></img>
+        <a
+          class="text-info text-center"
+          href="https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989"
+        >
+          Click HERE to review the gist live on Github
+        </a>
+        <div class="text-center">
+          <img
+            class="p-3"
+            style={{
+              height: 400,
+            }}
+            src={require("../../images/regextutorial.png")}
+          ></img>
+        </div>
+      </div>
+
+      <div class="container p-2 border border-light border-start-0 rounded-end mb-3">
+        <h2 class="p-3 bg-light bg-opacity-10">
+          #6 Placeholder for Project 3{" "}
+        </h2>
+        <p>
+          This div will be completed and put at the top of the page to display
+          the "Project 3: Full Stack Group Project".
+        </p>
+        <div class="text-center">
+          <img
+            class="p-3"
+            style={{
+              height: 400,
+            }}
+            src={require("../../images/profile-pic.jpg")}
+          ></img>
+        </div>
       </div>
     </div>
   );

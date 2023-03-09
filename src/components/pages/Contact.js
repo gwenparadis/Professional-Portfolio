@@ -26,18 +26,19 @@ const Contact = () => {
 
   return (
     <div class="bg-dark text-white p-5 text-center">
-      <h1 class="p-2">Contact Information</h1>
-      <h5 class="p-2 text-info">
-        Connect with me by clicking on the icon of your preferred platform
-      </h5>
-      <small class="text-info">
-        These links can be found in the footer, as well.
-      </small>
-      <h5 class="p-2 text-center text-info">
-        If connecting on social media isn't your thing, Email me directly by
-        filling out the form below
-      </h5>
-      <div class="container">
+      <div class="text-center border border-light rounded p-3">
+        <h1 class="p-2">Contact Information</h1>
+        <h5 class="p-2 text-info">Connect with me</h5>
+        {/* <img alt="Github">Github</img>
+      <img alt="LinkedIn">LinkedIn</img>
+      <img alt="other website">Other</img> */}
+      </div>
+
+      <div class="container mt-3">
+        <h5 class="p-2 text-center text-info">
+          If connecting on social media isn't your thing, contact me directly by
+          filling out the form below
+        </h5>
         <form
           ref={form}
           onSubmit={sendEmail}
@@ -84,7 +85,7 @@ const Contact = () => {
             ></textarea>
           </div>
           <small class="p-2 text-info">
-            Pressing the button below will send your credentials and message
+            Clicking the button below will send the information entered above
             directly to the email inbox of Gwen Paradis
           </small>
           <button type="submit" class="btn btn-info p-2">

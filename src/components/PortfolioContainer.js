@@ -28,8 +28,8 @@ export default function PortfolioContainer() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
       <footer class="footer text-center bg-light">
-        Gwen Paradis <br></br> Full Stack JavaScript Software Engineer <br></br>
-        © March 2023
+        Gwen Paradis, BSW, SE <br></br> Full Stack JavaScript Software Engineer{" "}
+        <br></br>© March 2023
       </footer>
     </div>
   );

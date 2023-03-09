@@ -3,9 +3,15 @@ import React from "react";
 export default function About() {
   return (
     <div class="bg-dark text-white p-5">
-      <div class="cover-container d-flex h-100 p-3 mx-auto flex-column text-center">
-        <h1 class="mb-3">Gwen Paradis</h1>
-        <h4 class="mb-3">Full Stack JavaScript Software Engineer</h4>
+      <div class="text-center border border-light rounded p-3">
+        <h1 class="mb-3">Gwen Paradis, BSW, SE</h1>
+        <a
+          class="text-info text-center"
+          href="https://www.linkedin.com/in/gwen-paradis-b2abb7192/"
+        >
+          Click HERE to go straight to my LinkedIn
+        </a>
+        <h4 class="mt-3 mb-3">Full Stack JavaScript Software Engineer</h4>
         <img
           style={{
             width: 200,
@@ -14,7 +20,7 @@ export default function About() {
         ></img>
       </div>
 
-      <div class="container">
+      <div class="container mt-3">
         <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           Overview
         </h3>
