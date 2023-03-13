@@ -32,6 +32,7 @@ export default function Portfolio() {
               height: 400,
             }}
             src={require("../../images/townhallscreenshot.png")}
+            alt="Town Hall Group Project Screenshot"
           ></img>
         </div>
         <h5>My Contribution</h5>
@@ -72,6 +73,7 @@ export default function Portfolio() {
               height: 400,
             }}
             src={require("../../images/eventsforecastplanner.png")}
+            alt="Events Weather Planner Group Project Screenshot"
           ></img>
         </div>
         <h5>My Contribution</h5>
@@ -110,6 +112,7 @@ export default function Portfolio() {
               height: 400,
             }}
             src={require("../../images/jsquiz.png")}
+            alt="JavaScript Front End Quiz Screenshot"
           ></img>
         </div>
       </div>
@@ -145,6 +148,7 @@ export default function Portfolio() {
               height: 400,
             }}
             src={require("../../images/ecommerce.png")}
+            alt="E-Commerce Back End Insomnia Screenshot"
           ></img>
         </div>
       </div>
@@ -171,6 +175,7 @@ export default function Portfolio() {
               height: 400,
             }}
             src={require("../../images/regextutorial.png")}
+            alt="Matching an Email Gist Screenshot"
           ></img>
         </div>
       </div>
@@ -191,6 +196,7 @@ export default function Portfolio() {
               height: 400,
             }}
             src={require("../../images/profile-pic.jpg")}
+            alt="Profile Placeholder for Future Screenshot"
           ></img>
         </div>
       </div>

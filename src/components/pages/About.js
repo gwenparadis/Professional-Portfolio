@@ -13,6 +13,7 @@ export default function About() {
         </a>
         <h4 class="mt-3 mb-3">Full Stack JavaScript Software Engineer</h4>
         <img
+          alt="Headshot"
           style={{
             width: 200,
           }}
