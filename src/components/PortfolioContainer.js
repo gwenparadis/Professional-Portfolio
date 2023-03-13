@@ -30,6 +30,13 @@ export default function PortfolioContainer() {
       <footer class="footer text-center bg-light">
         Gwen Paradis, BSW, SE <br></br> Full Stack JavaScript Software Engineer{" "}
         <br></br>© March 2023
+        <div>
+          <a href="https://github.com/gwenparadis">GitHub</a>
+          <br></br>
+          <a href="https://www.linkedin.com/in/gwen-paradis-b2abb7192/">
+            LinkedIn
+          </a>
+        </div>
       </footer>
     </div>
   );

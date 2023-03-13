@@ -28,7 +28,9 @@ const Contact = () => {
     <div class="bg-dark text-white p-5 text-center">
       <div class="text-center border border-light rounded p-3">
         <h1 class="p-2">Contact Information</h1>
-        <h5 class="p-2 text-info">Connect with me</h5>
+        <h5 class="p-2 text-info">
+          Connect with me on your preferred Social Networking platform
+        </h5>
         {/* <img alt="Github">Github</img>
       <img alt="LinkedIn">LinkedIn</img>
       <img alt="other website">Other</img> */}
