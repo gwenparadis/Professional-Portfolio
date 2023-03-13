@@ -12,6 +12,8 @@ export default function Portfolio() {
         </a>
       </div>
 
+      <p>Click on the Project Screenshots to access the Github Repository.</p>
+
       <div class="container p-2 border border-warning rounded mb-3">
         <h2 class="p-3 bg-warning bg-opacity-10 ">
           Town Hall: Full Stack MySQL Group Project
