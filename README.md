@@ -9,7 +9,10 @@ I created this portfolio in order to begin to showcase my work as a web develope
 This webpage can be accessed on Github Pages, at the link: https://gwenparadis.github.io/professional-portfolio/
 
 ## Usage
-The following describes the functionality of the Professional Portfolio. 
+The following provides a visual and describes the overall functionality of the Professional Portfolio.
+
+![Portfolio Readme Screenshot](./assets/professionalportfolio.png)
+
 
 ```md
 GIVEN a single-page application portfolio for a web developer
