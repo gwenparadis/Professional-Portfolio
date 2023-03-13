@@ -9,10 +9,10 @@ I created this portfolio in order to begin to showcase my work as a web develope
 This webpage can be accessed on Github Pages, at the link: https://gwenparadis.github.io/professional-portfolio/
 
 ## Usage
+
 The following provides a visual and describes the overall functionality of the Professional Portfolio.
 
-![Portfolio Readme Screenshot](./assets/professionalportfolio.png)
-
+![Portfolio Readme Screenshot](./src/images//professionalportfolio.png)
 
 ```md
 GIVEN a single-page application portfolio for a web developer
@@ -43,7 +43,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Technologies Used
+
 NodeJS, ReactJS, HTML, Bootstrap CSS Framework, Front-End Javascript components
 
 ## Credits
+
 NA
