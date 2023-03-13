@@ -31,9 +31,13 @@ const Contact = () => {
         <h5 class="p-2 text-info">
           Connect with me on your preferred Social Networking platform
         </h5>
-        {/* <img alt="Github">Github</img>
-      <img alt="LinkedIn">LinkedIn</img>
-      <img alt="other website">Other</img> */}
+        <div>
+          <a href="https://github.com/gwenparadis">GitHub</a>
+          <br></br>
+          <a href="https://www.linkedin.com/in/gwen-paradis-b2abb7192/">
+            LinkedIn
+          </a>
+        </div>
       </div>
 
       <div class="container mt-3">
