@@ -26,14 +26,19 @@ export default function Portfolio() {
           repository and Heroku to deploy our solution.
         </p>
         <div class="text-center">
-          <img
-            class="p-3"
-            style={{
-              height: 400,
-            }}
-            src={require("../../images/townhallscreenshot.png")}
-            alt="Town Hall Group Project Screenshot"
-          ></img>
+          <a
+            href="https://github.com/tpowers29/Town-Hall"
+            alt="Github Repository"
+          >
+            <img
+              class="p-3"
+              style={{
+                height: 400,
+              }}
+              src={require("../../images/townhallscreenshot.png")}
+              alt="Town Hall Group Project Screenshot"
+            ></img>
+          </a>
         </div>
         <h5>My Contribution</h5>
         <p>
@@ -46,7 +51,7 @@ export default function Portfolio() {
 
       <div class="container p-2 border border-danger rounded mb-3">
         <h2 class="p-3 bg-danger bg-opacity-10">
-          Event Weather Planner: Third Party API Integration, Front End Group
+          Event Forecast Planner: Third Party API Integration, Front End Group
           Project
         </h2>
         <p>
@@ -67,14 +72,19 @@ export default function Portfolio() {
           branch.
         </p>
         <div class="text-center">
-          <img
-            class="p-3"
-            style={{
-              height: 400,
-            }}
-            src={require("../../images/eventsforecastplanner.png")}
-            alt="Events Weather Planner Group Project Screenshot"
-          ></img>
+          <a
+            href="https://github.com/gwenparadis/EventsForecastPlanner"
+            alt="Github Repository"
+          >
+            <img
+              class="p-3"
+              style={{
+                height: 400,
+              }}
+              src={require("../../images/eventsforecastplanner.png")}
+              alt="Events Weather Planner Group Project Screenshot"
+            ></img>
+          </a>
         </div>
         <h5>My Contribution</h5>
         <p>
@@ -106,14 +116,19 @@ export default function Portfolio() {
           complexity of creating multiple interactive elements on one webpage.
         </p>
         <div class="text-center">
-          <img
-            class="p-3"
-            style={{
-              height: 400,
-            }}
-            src={require("../../images/jsquiz.png")}
-            alt="JavaScript Front End Quiz Screenshot"
-          ></img>
+          <a
+            href="https://github.com/gwenparadis/Front-End-Javascript-Quiz"
+            alt="Github Repository"
+          >
+            <img
+              class="p-3"
+              style={{
+                height: 400,
+              }}
+              src={require("../../images/jsquiz.png")}
+              alt="JavaScript Front End Quiz Screenshot"
+            ></img>
+          </a>
         </div>
       </div>
 
@@ -142,14 +157,19 @@ export default function Portfolio() {
           recording of application functionality.
         </a>
         <div class="text-center">
-          <img
-            class="p-3"
-            style={{
-              height: 400,
-            }}
-            src={require("../../images/ecommerce.png")}
-            alt="E-Commerce Back End Insomnia Screenshot"
-          ></img>
+          <a
+            href="https://github.com/gwenparadis/ecommerce-backend"
+            alt="Github Repository"
+          >
+            <img
+              class="p-3"
+              style={{
+                height: 400,
+              }}
+              src={require("../../images/ecommerce.png")}
+              alt="E-Commerce Back End Insomnia Screenshot"
+            ></img>
+          </a>
         </div>
       </div>
 
@@ -162,21 +182,20 @@ export default function Portfolio() {
           used to match user input, and wrote a tutorial for the "Matching an
           Email" expression, that is currently live at the Github Link below.
         </p>
-        <a
-          class="text-info text-center"
-          href="https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989"
-        >
-          Click HERE to review the gist live on Github
-        </a>
         <div class="text-center">
-          <img
-            class="p-3"
-            style={{
-              height: 400,
-            }}
-            src={require("../../images/regextutorial.png")}
-            alt="Matching an Email Gist Screenshot"
-          ></img>
+          <a
+            href="https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989"
+            alt="Direct Gist Link"
+          >
+            <img
+              class="p-3"
+              style={{
+                height: 400,
+              }}
+              src={require("../../images/regextutorial.png")}
+              alt="Matching an Email Gist Screenshot"
+            ></img>
+          </a>
         </div>
       </div>
 
