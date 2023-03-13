@@ -12,7 +12,9 @@ export default function Portfolio() {
         </a>
       </div>
 
-      <p>Click on the Project Screenshots to access the Github Repository.</p>
+      <p class="text-center text-info">
+        Click on the Project Screenshots to access the Github Repository.
+      </p>
 
       <div class="container p-2 border border-warning rounded mb-3">
         <h2 class="p-3 bg-warning bg-opacity-10 ">
@@ -211,14 +213,16 @@ export default function Portfolio() {
           proper description and deployment links.
         </p>
         <div class="text-center">
-          <img
-            class="p-3"
-            style={{
-              height: 400,
-            }}
-            src={require("../../images/profile-pic.jpg")}
-            alt="Profile Placeholder for Future Screenshot"
-          ></img>
+          <a href="https://github.com/gwenparadis" alt="Github Repository">
+            <img
+              class="p-3"
+              style={{
+                height: 400,
+              }}
+              src={require("../../images/profile-pic.jpg")}
+              alt="Profile Placeholder for Future Screenshot"
+            ></img>
+          </a>
         </div>
       </div>
     </div>
