@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/professional-portfolio/static/css/main.c2cab247.css",
+    "main.js": "/professional-portfolio/static/js/main.49d48f6f.js",
+    "static/media/eventsforecastplanner.png": "/professional-portfolio/static/media/eventsforecastplanner.fff9741c05c7f90c0e5c.png",
+    "static/media/townhallscreenshot.png": "/professional-portfolio/static/media/townhallscreenshot.adc227d9bab640cf39aa.png",
+    "static/media/ecommerce.png": "/professional-portfolio/static/media/ecommerce.b5ca6310c4288b22ad43.png",
+    "static/media/regextutorial.png": "/professional-portfolio/static/media/regextutorial.48bb8900dd6bb8adf0cd.png",
+    "static/media/profile-pic.jpg": "/professional-portfolio/static/media/profile-pic.0c2536cf1663ae1ae834.jpg",
+    "static/media/jsquiz.png": "/professional-portfolio/static/media/jsquiz.6b6d15caf48a6d095af3.png",
+    "index.html": "/professional-portfolio/index.html",
+    "main.c2cab247.css.map": "/professional-portfolio/static/css/main.c2cab247.css.map",
+    "main.49d48f6f.js.map": "/professional-portfolio/static/js/main.49d48f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.49d48f6f.js"
+  ]
+}
