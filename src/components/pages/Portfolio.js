@@ -16,6 +16,51 @@ export default function Portfolio() {
         Click on the Project Screenshots to access the Github Repository.
       </p>
 
+      <div class="container p-2 border border-light rounded mb-3">
+        <h2 class="p-3 bg-light bg-opacity-10">
+          Vacation Planner: Full MERN Stack Group Project
+        </h2>
+        <p>
+          My group utilized an Apollo Server, GraphQL, React and MongoDB to
+          complete this Full Stack Web Application. The front end is composed of
+          React components with Higher Level JavaScript functionality, to link
+          our MongoDB data into a cohesive and intuitive Front End Design. The
+          React components are styled with Bootstrap CSS Framework that is
+          consistent throughout the application to enhanve the user experience
+          of this application. User's can sign in as a new user or log in as a
+          returning user, view our Activity offerings, and add them to their
+          profile. On the profile page, users will see their personal
+          information paired with their Activity selections. From there, the
+          user can delete activities, if desired. This data is persisted in the
+          back end.
+        </p>
+        <div class="text-center">
+          <a
+            href="https://github.com/gwenparadis/vacation-planner"
+            alt="Github Repository for Vacation Planner"
+          >
+            <img
+              class="p-3"
+              style={{
+                height: 400,
+              }}
+              src={require("../../images/appScreenshot.png")}
+              alt="Profile Placeholder for Future Screenshot"
+            ></img>
+          </a>
+        </div>
+        <h5>My Contribution</h5>
+        <p>
+          For this project, I was the scrum master for our group, while also
+          completing the Full Stack GraphQL capabilities. I utilized and revised
+          the back end typeDefs and resolvers in order to utilize queries and
+          mutations that I created in the front end, to call data into the react
+          components and populate on the webpage. I also created the sample data
+          and completed the Authentication functionality of the Sign Up and
+          Login features.
+        </p>
+      </div>
+
       <div class="container p-2 border border-warning rounded mb-3">
         <h2 class="p-3 bg-warning bg-opacity-10 ">
           Town Hall: Full Stack MySQL Group Project
@@ -198,29 +243,6 @@ export default function Portfolio() {
               }}
               src={require("../../images/regextutorial.png")}
               alt="Matching an Email Gist Screenshot"
-            ></img>
-          </a>
-        </div>
-      </div>
-
-      <div class="container p-2 border border-light rounded mb-3">
-        <h2 class="p-3 bg-light bg-opacity-10">
-          #6 Placeholder: Full Stack React with MongoDB Group Project
-        </h2>
-        <p>
-          This div will be completed and put at the top of the page to display
-          the "Project 3: Full Stack Group Project" when completed with the
-          proper description and deployment links.
-        </p>
-        <div class="text-center">
-          <a href="https://github.com/gwenparadis" alt="Github Repository">
-            <img
-              class="p-3"
-              style={{
-                height: 400,
-              }}
-              src={require("../../images/profile-pic.jpg")}
-              alt="Profile Placeholder for Future Screenshot"
             ></img>
           </a>
         </div>
