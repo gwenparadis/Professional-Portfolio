@@ -60,20 +60,20 @@ export default function Resume() {
         <div class="p-2">
           <ul>
             <li>
-              Elected to pioneer Boston’s second Intercept team, promoting
-              program expansion, November 2021
+              Earned “Boston’s Best” and “Staff Star” (regional award) in
+              January 2022 and May 2022
             </li>
             <li>
-              Earned “Boston’s Best” employee of the month award for exceptional
-              relationship building, January 2022
+              Expanded services to 25 families, by pioneering Boston’s second
+              Intercept Team, November 2021
             </li>
             <li>
-              Earned “Staff Star” for Boston’s employee of the month for
-              exceptional case management, May 2022
+              Increased staff retention by 10% (2022-2023) by kick-starting the
+              per diem employment program
             </li>
             <li>
-              Pioneered the per diem employment program for Specialists who are
-              continuing education, to increase job retention within the company
+              Assisted 20 families with increased mental health care, reducing
+              the need for crisis intervention
             </li>
           </ul>
         </div>
@@ -97,8 +97,16 @@ export default function Resume() {
         <div class="p-2">
           <ul>
             <li>
-              Supported students in their remote learning, while each student
-              was promoted to next grade level
+              Promoted all students to the next grade level, despite remote
+              learning limitations
+            </li>
+            <li>
+              Maintained safety and normalcy for all students throughout the
+              pandemic
+            </li>
+            <li>
+              Fostered relationships with at least 10 community members in
+              covid-safe environments
             </li>
           </ul>
         </div>
@@ -119,12 +127,21 @@ export default function Resume() {
         <div class="p-2">
           <ul>
             <li>
-              Established a weekly “Staff Swim” hour to foster a healthy work
-              environment (up to 9 participants)
+              Trained 10 Directors in CPR and First Aid, to increase crisis
+              response readiness in all departments
             </li>
             <li>
-              Instructed multiple cohorts as a Lifeguard Instructor, CPR and AED
+              Increased positive work environment and retention of at least 9
+              staff, with “Staff Swim” hour
+            </li>
+            <li>
+              Instructed 2 cohorts as a Lifeguard Instructor, CPR and AED
               Instructor, and First Aid Instructor
+            </li>
+            <li>
+              Managed a staff of 15 lifeguards and instructors, hitting all
+              performance metrics and safety measures for the 2019-2020 school
+              year and summer camp program, despite the pandemic
             </li>
           </ul>
         </div>
@@ -143,12 +160,16 @@ export default function Resume() {
         <div class="p-2">
           <ul>
             <li>
-              Created and implemented health and wellness programming for girls
-              ages 8-12
+              Developed an original health program for girls (9-12) that
+              increased community health markers
             </li>
             <li>
-              Pioneered a youth engineering experience, where youths would build
-              their own bikes to keep.
+              Facilitated two (2) cohorts of 5-7 youth who refurbished bicycles,
+              increasing fitness and transportation for at least 10 Club members
+            </li>
+            <li>
+              Taught mindfulness practices to youth to reduce physical conflicts
+              by 50% in 2019.
             </li>
           </ul>
         </div>
