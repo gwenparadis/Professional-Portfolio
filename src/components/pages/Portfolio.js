@@ -26,8 +26,8 @@ export default function Portfolio() {
           React components with Higher Level JavaScript functionality, to link
           our MongoDB data into a cohesive and intuitive Front End Design. The
           React components are styled with Bootstrap CSS Framework that is
-          consistent throughout the application to enhanve the user experience
-          of this application. User's can sign in as a new user or log in as a
+          consistent throughout the application to enhance the user experience
+          of this application. Users can sign in as a new user or log in as a
           returning user, view our Activity offerings, and add them to their
           profile. On the profile page, users will see their personal
           information paired with their Activity selections. From there, the
@@ -45,7 +45,7 @@ export default function Portfolio() {
                 height: 400,
               }}
               src={require("../../images/appScreenshot.png")}
-              alt="Profile Placeholder for Future Screenshot"
+              alt="Vacation Planner Homepage Screenshot"
             ></img>
           </a>
         </div>
@@ -66,13 +66,13 @@ export default function Portfolio() {
           Town Hall: Full Stack MySQL Group Project
         </h2>
         <p>
-          We used Node.js and Express.js to create a RESTSful API. We used
-          Handlebars.js as the templating engine, and we used MySQL and the
-          Sequelize ORM for the database. For CSS/styling we used
-          Tailwind/daisyUI, and we used placeimg.com for the random image
-          generator. We used Insomnia to test routes and Workbench to test
-          models, relationships, and queries. We used Github to host our
-          repository and Heroku to deploy our solution.
+          Our group used Node.js, Express.js routing, and a MySQL database, to
+          create a RESTful API. We used Handlebars.js as the front end
+          framework, paired with the Tailwind CSS Framework and DaisyUI
+          components. The profile images are generated from a third party API.
+          We used Insomnia to test routes and Workbench to create models and
+          ensure the functionality of the Express routes. We used Github to host
+          our repository and Heroku to deploy our solution.
         </p>
         <div class="text-center">
           <a
@@ -91,10 +91,11 @@ export default function Portfolio() {
         </div>
         <h5>My Contribution</h5>
         <p>
-          Commitment to Agile Methodologies, Front End Functionality, Sign Up
-          and Login Forms, Styling with Tailwind CSS Framework, confirming
-          functionality of Routes, Final Clean Up of Unecessary components from
-          Source Code
+          For this project, all members worked with a commitment to Agile
+          Methodologies. My technical contributions include: creating a
+          functional front end with Handlebars.js, styling with Tailwind CSS
+          Framework and DaisyUI components, Front End Functionality, Sign Up and
+          Login Forms (not including Auth functionality), and Express routes.
         </p>
       </div>
 
@@ -137,12 +138,12 @@ export default function Portfolio() {
         </div>
         <h5>My Contribution</h5>
         <p>
-          Commitment to Agile Methodologies, Creating the HTML to ensure Front
-          End presentation and functionality, Mastering the OpenWeather API,
-          Mastering the GeoLocation API, creating the Fetch requests and
-          integrating this data into the Events API (mastered by another
-          teammate), Dynamically rendering the fetched data into the HTML for
-          user viewing.
+          For this project, my technical contributions include: Creating the
+          HTML to ensure Front End presentation and functionality, Mastering the
+          OpenWeather API, Mastering the GeoLocation API, creating the Fetch
+          requests and integrating this data into the Events API (mastered by
+          another teammate), and dynamically rendering the fetched data into the
+          HTML for user viewing.
         </p>
       </div>
 
