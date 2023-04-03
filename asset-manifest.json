@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.c2cab247.css",
-    "main.js": "/professional-portfolio/static/js/main.1a64ddf5.js",
+    "main.js": "/professional-portfolio/static/js/main.96b39639.js",
+    "static/media/appScreenshot.png": "/professional-portfolio/static/media/appScreenshot.152f3c7c5a0b261efc12.png",
     "static/media/eventsforecastplanner.png": "/professional-portfolio/static/media/eventsforecastplanner.fff9741c05c7f90c0e5c.png",
     "static/media/townhallscreenshot.png": "/professional-portfolio/static/media/townhallscreenshot.adc227d9bab640cf39aa.png",
     "static/media/ecommerce.png": "/professional-portfolio/static/media/ecommerce.b5ca6310c4288b22ad43.png",
@@ -10,10 +11,10 @@
     "static/media/jsquiz.png": "/professional-portfolio/static/media/jsquiz.6b6d15caf48a6d095af3.png",
     "index.html": "/professional-portfolio/index.html",
     "main.c2cab247.css.map": "/professional-portfolio/static/css/main.c2cab247.css.map",
-    "main.1a64ddf5.js.map": "/professional-portfolio/static/js/main.1a64ddf5.js.map"
+    "main.96b39639.js.map": "/professional-portfolio/static/js/main.96b39639.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.1a64ddf5.js"
+    "static/js/main.96b39639.js"
   ]
 }
