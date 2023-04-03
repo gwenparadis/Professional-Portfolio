@@ -139,11 +139,12 @@ export default function Portfolio() {
         <h5>My Contribution</h5>
         <p>
           For this project, my technical contributions include: Creating the
-          HTML to ensure Front End presentation and functionality, Mastering the
-          OpenWeather API, Mastering the GeoLocation API, creating the Fetch
-          requests and integrating this data into the Events API (mastered by
-          another teammate), and dynamically rendering the fetched data into the
-          HTML for user viewing.
+          HTML to ensure Front End presentation and functionality, Third Party
+          API integration with JavaScript, Mastering the OpenWeather API,
+          Mastering the GeoLocation API, creating the Fetch requests and
+          integrating this data into the Events API (mastered by another
+          teammate), and dynamically rendering the fetched data into the HTML
+          for user viewing.
         </p>
       </div>
 
