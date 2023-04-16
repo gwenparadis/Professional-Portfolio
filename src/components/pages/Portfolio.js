@@ -20,6 +20,12 @@ export default function Portfolio() {
         <h2 class="p-3 bg-light bg-opacity-10">
           Vacation Planner: Full MERN Stack Group Project
         </h2>
+        <a
+          href="https://safe-inlet-96324.herokuapp.com/"
+          alt="Vacation Planner Deployed Link"
+        >
+          Click HERE to view the live deployed webpage
+        </a>
         <p>
           My group utilized an Apollo Server, GraphQL, React and MongoDB to
           complete this Full Stack Web Application. The front end is composed of
@@ -146,41 +152,6 @@ export default function Portfolio() {
           teammate), and dynamically rendering the fetched data into the HTML
           for user viewing.
         </p>
-      </div>
-
-      <div class="container p-2 border border-danger rounded mb-3">
-        <h2 class="p-3 bg-danger bg-opacity-10">
-          JavaScript Quiz: Front End Javascript
-        </h2>
-        <p>
-          I have attempted to create an interactive JavaScript quiz utilizing
-          original HTML, CSS, and JavaScript elements. This project intends to
-          showcase the skills that I have learned in JavaScript. This webpage
-          features an EventListener() on the start button, prompting the quiz to
-          begin by presenting the first question and starting a timer. The
-          answer buttons are interactive. The timer is affected by the user's
-          answer choices. When the timer runs out, the endGame() functions are
-          run to alert the user that the game is over, and providing an area for
-          the user to input their initials to be displayed on the HighScore
-          board. The initials and score are saved in local storage, which can be
-          seen when you inspect the page. Throughout development, I learned the
-          complexity of creating multiple interactive elements on one webpage.
-        </p>
-        <div class="text-center">
-          <a
-            href="https://github.com/gwenparadis/Front-End-Javascript-Quiz"
-            alt="Github Repository"
-          >
-            <img
-              class="p-3"
-              style={{
-                height: 400,
-              }}
-              src={require("../../images/jsquiz.png")}
-              alt="JavaScript Front End Quiz Screenshot"
-            ></img>
-          </a>
-        </div>
       </div>
 
       <div class="container p-2 border border-info rounded mb-3">
