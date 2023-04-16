@@ -110,6 +110,12 @@ export default function Portfolio() {
           Event Forecast Planner: Third Party API Integration, Front End Group
           Project
         </h2>
+        <a
+          href="https://gwenparadis.github.io/EventsForecastPlanner/"
+          alt="Events Planner Deployed Link"
+        >
+          Click HERE to view the live deployed webpage
+        </a>
         <p>
           The motivation to create this application came from the group’s
           interest in outdoor activities and events, with the real world problem
