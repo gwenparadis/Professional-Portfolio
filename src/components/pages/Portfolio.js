@@ -69,7 +69,7 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-warning rounded mb-3">
-        <header class="p-3 bg-light bg-opacity-10">
+        <header class="p-3 bg-warning bg-opacity-10">
           <h2>Town Hall: Full Stack MySQL Group Project</h2>
           <a
             class="text-info text-center"
@@ -114,7 +114,7 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-danger rounded mb-3">
-        <header class="p-3 bg-warning bg-opacity-10">
+        <header class="p-3 bg-danger bg-opacity-10">
           <h2>
             Event Forecast Planner: Third Party API Integration, Front End Group
             Project
