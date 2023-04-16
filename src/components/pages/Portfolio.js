@@ -83,7 +83,7 @@ export default function Portfolio() {
         </p>
         <div class="text-center">
           <a
-            href="https://github.com/tpowers29/Town-Hall"
+            href="https://github.com/gwenparadis/Town-Hall"
             alt="Github Repository"
           >
             <img
