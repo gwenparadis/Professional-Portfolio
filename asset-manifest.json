@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.c2cab247.css",
-    "main.js": "/professional-portfolio/static/js/main.35108498.js",
+    "main.js": "/professional-portfolio/static/js/main.2b75af37.js",
     "static/media/appScreenshot.png": "/professional-portfolio/static/media/appScreenshot.152f3c7c5a0b261efc12.png",
     "static/media/eventsforecastplanner.png": "/professional-portfolio/static/media/eventsforecastplanner.fff9741c05c7f90c0e5c.png",
     "static/media/townhallscreenshot.png": "/professional-portfolio/static/media/townhallscreenshot.adc227d9bab640cf39aa.png",
@@ -10,10 +10,10 @@
     "static/media/profile-pic.jpg": "/professional-portfolio/static/media/profile-pic.0c2536cf1663ae1ae834.jpg",
     "index.html": "/professional-portfolio/index.html",
     "main.c2cab247.css.map": "/professional-portfolio/static/css/main.c2cab247.css.map",
-    "main.35108498.js.map": "/professional-portfolio/static/js/main.35108498.js.map"
+    "main.2b75af37.js.map": "/professional-portfolio/static/js/main.2b75af37.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.35108498.js"
+    "static/js/main.2b75af37.js"
   ]
 }
