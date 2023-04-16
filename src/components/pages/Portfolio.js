@@ -107,7 +107,7 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-danger rounded mb-3">
-        <header class="p-3 bg-light bg-opacity-10">
+        <header class="p-3 bg-warning bg-opacity-10">
           <h2>
             Event Forecast Planner: Third Party API Integration, Front End Group
             Project
@@ -165,7 +165,7 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-info rounded mb-3">
-        <header class="p-3 bg-light bg-opacity-10">
+        <header class="p-3 bg-info bg-opacity-10">
           <h2>E-Commerce Back End: Back End MySQL with Sequelize</h2>
           <a
             class="text-info text-center"
