@@ -17,15 +17,16 @@ export default function Portfolio() {
       </p>
 
       <div class="container p-2 border border-light rounded mb-3">
-        <h2 class="p-3 bg-light bg-opacity-10">
-          Vacation Planner: Full MERN Stack Group Project
-        </h2>
-        <a
-          href="https://safe-inlet-96324.herokuapp.com/"
-          alt="Vacation Planner Deployed Link"
-        >
-          Click HERE to view the live deployed webpage
-        </a>
+        <header class="p-3 bg-light bg-opacity-10">
+          <h2>Vacation Planner: Full MERN Stack Group Project</h2>
+          <a
+            class="text-info text-center"
+            href="https://safe-inlet-96324.herokuapp.com/"
+            alt="Vacation Planner Deployed Link"
+          >
+            Click HERE to view the live deployed webpage
+          </a>
+        </header>
         <p>
           My group utilized an Apollo Server, GraphQL, React and MongoDB to
           complete this Full Stack Web Application. The front end is composed of
@@ -106,16 +107,19 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-danger rounded mb-3">
-        <h2 class="p-3 bg-danger bg-opacity-10">
-          Event Forecast Planner: Third Party API Integration, Front End Group
-          Project
-        </h2>
-        <a
-          href="https://gwenparadis.github.io/EventsForecastPlanner/"
-          alt="Events Planner Deployed Link"
-        >
-          Click HERE to view the live deployed webpage
-        </a>
+        <header class="p-3 bg-light bg-opacity-10">
+          <h2>
+            Event Forecast Planner: Third Party API Integration, Front End Group
+            Project
+          </h2>
+          <a
+            class="text-info"
+            href="https://gwenparadis.github.io/EventsForecastPlanner/"
+            alt="Events Planner Deployed Link"
+          >
+            Click HERE to view the live deployed webpage
+          </a>
+        </header>
         <p>
           The motivation to create this application came from the group’s
           interest in outdoor activities and events, with the real world problem
@@ -161,9 +165,17 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-info rounded mb-3">
-        <h2 class="p-3 bg-info bg-opacity-10">
-          E-Commerce Back End: Back End MySQL with Sequelize
-        </h2>
+        <header class="p-3 bg-light bg-opacity-10">
+          <h2>E-Commerce Back End: Back End MySQL with Sequelize</h2>
+          <a
+            class="text-info text-center"
+            href="https://drive.google.com/file/d/17MyLdJ6GeWjsGvi-UIof24Y7NaFncKqw/view"
+            alt="Back-end functionality screen recording"
+          >
+            This project does not have a front end. Click HERE to watch a
+            recording of application functionality.
+          </a>
+        </header>
         <p>
           I created this E-Commerce Backend in order to create an interactive
           database to store my store's inventory data. I am able to view product
@@ -177,13 +189,6 @@ export default function Portfolio() {
           my knowledge of Express.js routes, and conducted testing of routes and
           database capabilities with Insomnia.
         </p>
-        <a
-          class="text-info text-center"
-          href="https://drive.google.com/file/d/17MyLdJ6GeWjsGvi-UIof24Y7NaFncKqw/view"
-        >
-          This project does not have a front end. Click HERE to watch a
-          recording of application functionality.
-        </a>
         <div class="text-center">
           <a
             href="https://github.com/gwenparadis/ecommerce-backend"
@@ -202,9 +207,16 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-light rounded mb-3">
-        <h2 class="p-3 bg-light bg-opacity-10">
-          Matching an Email: Regex Tutorial
-        </h2>
+        <header class="p-3 bg-light bg-opacity-10">
+          <h2>Matching an Email: Regex Tutorial</h2>
+          <a
+            class="text-info text-center"
+            href="https://gist.github.com/gwenparadis/d094f5546e7de9dce389a57e728d8989"
+            alt="Full Live tutorial Link"
+          >
+            Click HERE to see the live tutorial.
+          </a>
+        </header>
         <p>
           I researched the fundamentals of Regular Expressions and how they are
           used to match user input, and wrote a tutorial for the "Matching an
