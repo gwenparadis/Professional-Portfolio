@@ -69,9 +69,16 @@ export default function Portfolio() {
       </div>
 
       <div class="container p-2 border border-warning rounded mb-3">
-        <h2 class="p-3 bg-warning bg-opacity-10 ">
-          Town Hall: Full Stack MySQL Group Project
-        </h2>
+        <header class="p-3 bg-light bg-opacity-10">
+          <h2>Town Hall: Full Stack MySQL Group Project</h2>
+          <a
+            class="text-info text-center"
+            href="https://rocky-meadow-15337.herokuapp.com/"
+            alt="Town Hall Deployed Link"
+          >
+            Click HERE to view the live deployed webpage
+          </a>
+        </header>
         <p>
           Our group used Node.js, Express.js routing, and a MySQL database, to
           create a RESTful API. We used Handlebars.js as the front end
