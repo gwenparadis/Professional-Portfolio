@@ -27,19 +27,29 @@ export default function Portfolio() {
             Click HERE to view the live deployed webpage
           </a>
         </header>
+        <h5>My Contribution</h5>
         <p>
-          My group utilized an Apollo Server, GraphQL, React and MongoDB to
-          complete this Full Stack Web Application. The front end is composed of
-          React components with Higher Level JavaScript functionality, to link
-          our MongoDB data into a cohesive and intuitive Front End Design. The
-          React components are styled with Bootstrap CSS Framework that is
-          consistent throughout the application to enhance the user experience
-          of this application. Users can sign in as a new user or log in as a
-          returning user, view our Activity offerings, and add them to their
-          profile. On the profile page, users will see their personal
-          information paired with their Activity selections. From there, the
-          user can delete activities, if desired. This data is persisted in the
-          back end.
+          For this project, I was the scrum master for our group, while also
+          completing the Full Stack GraphQL capabilities. I utilized and revised
+          the back end typeDefs and resolvers in order to utilize queries and
+          mutations that I created in the front end, to call data into the react
+          components and populate on the webpage. I also created the sample data
+          and completed the Authentication functionality of the Sign Up and
+          Login features.
+        </p>
+        <h5>Application Overview</h5>
+        <p>
+          We utilized an Apollo Server, GraphQL, React and MongoDB to complete
+          this Full Stack Web Application. The front end is composed of React
+          components with Higher Level JavaScript functionality, to link our
+          MongoDB data into a cohesive and intuitive Front End Design. The React
+          components are styled with Bootstrap CSS Framework that is consistent
+          throughout the application to enhance the user experience of this
+          application. Users can sign in as a new user or log in as a returning
+          user, view our Activity offerings, and add them to their profile. On
+          the profile page, users will see their personal information paired
+          with their Activity selections. From there, the user can delete
+          activities, if desired. This data is persisted in the back end.
         </p>
         <div class="text-center">
           <a
@@ -56,16 +66,6 @@ export default function Portfolio() {
             ></img>
           </a>
         </div>
-        <h5>My Contribution</h5>
-        <p>
-          For this project, I was the scrum master for our group, while also
-          completing the Full Stack GraphQL capabilities. I utilized and revised
-          the back end typeDefs and resolvers in order to utilize queries and
-          mutations that I created in the front end, to call data into the react
-          components and populate on the webpage. I also created the sample data
-          and completed the Authentication functionality of the Sign Up and
-          Login features.
-        </p>
       </div>
 
       <div class="container p-2 border border-warning rounded mb-3">
@@ -79,6 +79,15 @@ export default function Portfolio() {
             Click HERE to view the live deployed webpage
           </a>
         </header>
+        <h5>My Contribution</h5>
+        <p>
+          For this project, all members worked with a commitment to Agile
+          Methodologies. My technical contributions include: creating a
+          functional front end with Handlebars.js, styling with Tailwind CSS
+          Framework and DaisyUI components, Front End Functionality, Sign Up and
+          Login Forms (not including Auth functionality), and Express routes.
+        </p>
+        <h5>Application Overview</h5>
         <p>
           Our group used Node.js, Express.js routing, and a MySQL database, to
           create a RESTful API. We used Handlebars.js as the front end
@@ -103,14 +112,6 @@ export default function Portfolio() {
             ></img>
           </a>
         </div>
-        <h5>My Contribution</h5>
-        <p>
-          For this project, all members worked with a commitment to Agile
-          Methodologies. My technical contributions include: creating a
-          functional front end with Handlebars.js, styling with Tailwind CSS
-          Framework and DaisyUI components, Front End Functionality, Sign Up and
-          Login Forms (not including Auth functionality), and Express routes.
-        </p>
       </div>
 
       <div class="container p-2 border border-danger rounded mb-3">
@@ -127,6 +128,17 @@ export default function Portfolio() {
             Click HERE to view the live deployed webpage
           </a>
         </header>
+        <h5>My Contribution</h5>
+        <p>
+          For this project, my technical contributions include: Creating the
+          HTML to ensure Front End presentation and functionality, Third Party
+          API integration with JavaScript, Mastering the OpenWeather API,
+          Mastering the GeoLocation API, creating the Fetch requests and
+          integrating this data into the Events API (mastered by another
+          teammate), and dynamically rendering the fetched data into the HTML
+          for user viewing.
+        </p>
+        <h5>Application Overview</h5>
         <p>
           The motivation to create this application came from the group’s
           interest in outdoor activities and events, with the real world problem
@@ -159,16 +171,6 @@ export default function Portfolio() {
             ></img>
           </a>
         </div>
-        <h5>My Contribution</h5>
-        <p>
-          For this project, my technical contributions include: Creating the
-          HTML to ensure Front End presentation and functionality, Third Party
-          API integration with JavaScript, Mastering the OpenWeather API,
-          Mastering the GeoLocation API, creating the Fetch requests and
-          integrating this data into the Events API (mastered by another
-          teammate), and dynamically rendering the fetched data into the HTML
-          for user viewing.
-        </p>
       </div>
 
       <div class="container p-2 border border-info rounded mb-3">

@@ -25,7 +25,7 @@ export default function Resume() {
         <div class="p-2">
           <h2>Apprentice Software Engineer, JavaScript</h2>
           <h6 class="text-info">
-            UNH Coding Bootcamp, Dover NH (Remote), September 2021 to present
+            UNH Coding Bootcamp, Dover NH (Remote), September 2022 to present
           </h6>
           <h6>Field: Software Engineering</h6>
         </div>
