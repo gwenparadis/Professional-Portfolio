@@ -23,9 +23,38 @@ export default function Resume() {
 
       <div class="container p-2">
         <div class="p-2">
+          <h2>Shopify and WordPress Engineer</h2>
+          <h6 class="text-info">
+            Dream Developers LLC, Boston MA (Remote), July 2023 to present
+          </h6>
+          <h6>Field: Software Engineering</h6>
+        </div>
+
+        <div class="p-2">
+          <ul>
+            <li>
+              Develop and maintain Shopify and WordPress web pages based on
+              client feedback
+            </li>
+            <li>
+              Customize existing web pages with original HTML, CSS, JavaScript
+              and API integration
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="container p-2">
+        <div class="p-2 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+          <h2>Previous Accomplishments</h2>
+        </div>
+      </div>
+
+      <div class="container p-2">
+        <div class="p-2">
           <h2>Apprentice Software Engineer, JavaScript</h2>
           <h6 class="text-info">
-            UNH Coding Bootcamp, Dover NH (Remote), September 2022 to present
+            UNH Coding Bootcamp, Dover NH (Remote), September 2022 to June 2023
           </h6>
           <h6>Field: Software Engineering</h6>
         </div>
@@ -52,7 +81,7 @@ export default function Resume() {
         <div class="p-2">
           <h2>Sr Family Intervention Specialist</h2>
           <h6 class="text-info">
-            Youth Villages, Boston MA (Hyrbid), September 2021 to present
+            Youth Villages, Boston MA (Hyrbid), September 2021 to April 2023
           </h6>
           <h6>Field: Clinical Social Work </h6>
         </div>
@@ -76,12 +105,6 @@ export default function Resume() {
               the need for crisis intervention
             </li>
           </ul>
-        </div>
-      </div>
-
-      <div class="container p-2">
-        <div class="p-2 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
-          <h2>Previous Accomplishments</h2>
         </div>
       </div>
 
@@ -183,7 +206,9 @@ export default function Resume() {
 
       <div class="container p-2">
         <div class="p-2">
-          <h2>Certificate of Full Stack Web Development, JavaScript</h2>
+          <h2>
+            Certificate of Full Stack Web Development, JavaScript MERN Stack
+          </h2>
           <h6 class="text-info">
             University of New Hampshire, Dover NH (Remote), Completed March 2023
           </h6>

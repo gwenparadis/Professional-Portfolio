@@ -27,21 +27,24 @@ export default function About() {
           Overview
         </h3>
         <p>
-          I am a Web Developer looking to bring my talents and abilities to your
-          company as a Full Stack JavaScript Developer. I have completed a
-          24-week coding bootcamp at the top of my class, where I learned Full
-          Stack Web Development, specializing in Model-View-Controller software
-          design utilizing MongoDB or SQL for API creation and implementation in
-          the backend, as well as functional front-end Javascript with React. I
-          offer the communication and community-building skills that I have
-          gained in my career as a Social Worker to collaborate with other
-          developers using Agile Methodologies. In that same way, I bring an
-          easy-going personality combined with the ability to manage the tougher
+          I am a Software Engineer looking to expand my talents and abilities as
+          a Full Stack JavaScript Web Developer. I currently work as a Shopify
+          and WordPress Engineer, where I develop, maintain, and customize
+          client web pages-- combining the features of these third-party apps
+          with my own custom code. Prior to this, I completed a 24-week coding
+          bootcamp at the top of my class, where I learned Full Stack Web
+          Development, specializing in Model-View-Controller software design
+          utilizing MongoDB or SQL for API creation and implementation in the
+          backend, as well as functional front-end Javascript with React. I
+          offer the communication and community-building skills that I gained in
+          my former career as a Social Worker to collaborate with other
+          developers using Agile Methodologies. I bring an easy-going
+          personality combined with the ability to manage the tougher
           conversations when necessary. I take pride in my work, including
           producing user-friendly designs and effective functioning, presenting
           projects and public speaking, and learning new technologies along the
-          way. I love to work hard with a smile. In my spare time I compete in
-          Powerlifting, value time with friends and family, and love a good
+          way. I love to work hard with a smile. In my spare time I am a
+          body-builder, value time with friends and family, and love a good
           Netflix Reality TV Series.
         </p>
       </div>
