@@ -78,25 +78,29 @@ export default function About() {
             CSS, including: Bootstrap CSS Framework, Tailwind CSS Framework,
             Daisy UI Tailwind Plugin
           </li>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>Liquid</li>
           <li>Node.js</li>
-          <li>Express.js</li>
-          <li>MySQL</li>
-          <li>MongoDB</li>
           <li>React.js</li>
-          <li>Handlebars.js</li>
+          <li>Express.js</li>
+          <li>GraphQL with Apollo Server</li>
+          <li>MySQL and Sequelize</li>
+          <li>MongoDB and Mongoose</li>
         </ul>
         <h3 class="p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
           Other Technologies
         </h3>
         <ul>
           <li>Visual Studio Code</li>
-          <li>Github</li>
-          <li>Insomnia</li>
-          <li>Workbench</li>
-          <li>MongoDB Compass</li>
-          <li>Github Pages</li>
-          <li>Heroku</li>
+          <li>Github and Github Pages</li>
           <li>Third Party API integration</li>
+          <li>Shopify</li>
+          <li>WordPress</li>
+          <li>Insomnia for route testing</li>
+          <li>Workbench for SQL database management</li>
+          <li>MongoDB Compass for MongoDB database management</li>
+          <li>Heroku</li>
         </ul>
       </div>
     </div>
